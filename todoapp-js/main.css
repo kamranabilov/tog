@@ -1,0 +1,25 @@
+*{
+    margin:  0;
+    padding:  0;
+    box-sizing: border-box;
+}
+.input-group .custom-gr{
+    border: none;
+    background-color: #fff;
+}
+.input-group .custom-inp{
+    border: 1px solid #000;
+    border-radius: 3px;
+    text-align:center;
+} 
+#demo .container{
+    background-color: hsl(0, 0%, 90%);
+}
+.custom-btn{
+    margin-left: 10px;
+}
+h3{
+    display: flex;
+    background-color: rgb(226, 226, 226);
+} 
+
